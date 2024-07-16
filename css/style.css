@@ -262,6 +262,7 @@ ul {
 
 .footer-col-4 ul li a {
     line-height: 26px;
+    color: #959393;
 }
 
 .footer hr {
@@ -436,6 +437,7 @@ button:focus {
         -webkit-backdrop-filter: blur(3px);
         backdrop-filter: blur(3px);
         gap: 49px;
+        z-index: 1;
     }
 
 
